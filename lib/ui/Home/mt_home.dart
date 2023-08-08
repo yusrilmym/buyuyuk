@@ -138,7 +138,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                   fontSize: 18.0),
                             ),
                             Text(
-                              "Maulana Yusril Mahendra",
+                              "dr Maulana Yusril M, Sp.Kom, M.Kom",
                               style: TextStyle(
                                   fontWeight: FontWeight.bold,
                                   color: kLikeWhiteColor),
@@ -248,7 +248,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Text(
-                    "Ringkasan Pendapatan",
+                    "Menu SIJAPRI",
                     style: ktitleTextStyle.copyWith(fontSize: 18),
                   ),
                   const SizedBox(
@@ -270,7 +270,7 @@ class _HomeScreenState extends State<HomeScreen> {
                             child: Padding(
                               padding: const EdgeInsets.all(12.0),
                               child: Text(
-                                "Jumlah Nilai Jasa Pelayanan\nRp. 82.000.000",
+                                "Jumlah Nilai Jasa Pelayanan\nRp.35.000.000",
                                 style: ktitleTextStyle.copyWith(fontSize: 17),
                               ),
                             ),
@@ -294,7 +294,7 @@ class _HomeScreenState extends State<HomeScreen> {
                             child: Padding(
                               padding: const EdgeInsets.all(12.0),
                               child: Text(
-                                "Jumlah Nilai Insentive\nRp. 16.000.000",
+                                "Rincian Detail Pasien\n20 Pasien",
                                 style: ktitleTextStyle.copyWith(fontSize: 17),
                               ),
                             ),
@@ -322,7 +322,7 @@ class _HomeScreenState extends State<HomeScreen> {
                             child: Padding(
                               padding: const EdgeInsets.all(12.0),
                               child: Text(
-                                "Jumlah Potongan\nRp. 6.000.000",
+                                "Rekapan Cara Bayar Pasien\n",
                                 style: ktitleTextStyle.copyWith(fontSize: 17),
                               ),
                             ),
@@ -346,7 +346,7 @@ class _HomeScreenState extends State<HomeScreen> {
                             child: Padding(
                               padding: const EdgeInsets.all(12.0),
                               child: Text(
-                                "Total Remunerasi Bersih\nRp. 92.000.000",
+                                "Detail Seluruh\nJP dan Pasien per bulan",
                                 style: ktitleTextStyle.copyWith(fontSize: 17),
                               ),
                             ),
